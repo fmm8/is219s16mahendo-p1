@@ -7,10 +7,21 @@ echo "My page";
   <!DOCTYPE html>
   <html lang = "en">
   <head>
+    <style>
+      body{background-color: red;
+          font-size: 20px;
+          font-family: sans serif;
+          color: #ffffff;
+      }
+      
+      p{
+        font-weight:light;
+      }
+    </style>
   </head>
   <body>
   
-    <p style = {background-color:blue;}>hello world</p>
+    <p>hello world</p>
   
   </body>
   </html>
