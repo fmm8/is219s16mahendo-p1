@@ -10,7 +10,7 @@ echo "My page";
   </head>
   <body>
   
-    <p>hello world</p>
+    <p style = {background-color:blue;}>hello world</p>
   
   </body>
   </html>
