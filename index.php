@@ -1,3 +1,12 @@
 <?php
-  echo "hello world";
+  <!DOCTYPE html>
+  <html lang = "en">
+  <head>
+  </head>
+  <body>
+        
+        <p>Hello World</p>
+  
+  </body>
+  </html>
 ?>
