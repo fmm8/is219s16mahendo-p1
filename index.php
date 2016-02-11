@@ -1,16 +1,16 @@
 <?php
+
+echo "My page";
+  
+?>
+
   <!DOCTYPE html>
   <html lang = "en">
   <head>
   </head>
   <body>
-        
-        echo "<p>"
-          
-             Hello World
-        
-        echo"</p>";
+  
+    <p>hello world</p>
   
   </body>
   </html>
-?>
