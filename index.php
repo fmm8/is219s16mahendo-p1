@@ -46,7 +46,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default navbar-fixed-top"">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -69,7 +69,7 @@
 
 <div class="container-fluid bg-1 text-center">
   <h3>Who Am I?</h3>
-  <img src="bird.jpg" class="img-responsive img-circle" style="display:inline" alt="Bird" width="350" height="350">
+  
   <h3>I'm an adventurer</h3>
 </div>
 
