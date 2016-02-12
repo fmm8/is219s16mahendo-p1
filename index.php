@@ -47,7 +47,7 @@
     <h3>Education</h3>
     <div class="row">
       <div class="col-sm-4">
-      
+        <img src="http://www.henkoh.com/images/profiles/default.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
       </div>
       <div class="col-sm-8">
         
