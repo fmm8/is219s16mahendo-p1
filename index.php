@@ -74,7 +74,7 @@
 <!-- Start of work experience container -->
 <div class="container-fluid bg-3 text-center" id="workExperience">    
   <section>
-     <h3>Interests</h3>
+     <h3>Work Experience</h3>
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
