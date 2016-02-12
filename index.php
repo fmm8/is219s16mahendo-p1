@@ -46,10 +46,10 @@
   <section>
     <h3>Education</h3>
     <div class="row">
-      <div class="col-xs-4 col-sm-4 col-md-4">
+      <div class="col-sm-4">
         <img src="http://www.henkoh.com/images/profiles/default.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
       </div>
-      <div class="col-xs-8 col-sm-8 col-md-8">
+      <div class="col-sm-8 ">
         
          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
