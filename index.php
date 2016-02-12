@@ -91,7 +91,7 @@
 
 <div class="container-fluid bg-4 text-center" id="contact">    
   <section>
-    <h3>Contact Me</h3>
+    <div class="well">Contact Me</div>
     <div class="row">
       <div class="col-sm-4">
         <p>fmm8@njit.edu</p>
