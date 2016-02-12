@@ -54,17 +54,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="#">Me</a>
+      <a class="navbar-brand" href="#">Farahani Mahendo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">WHO</a></li>
-        <li><a href="#">WHAT</a></li>
-        <li><a href="#">WHERE</a></li>
+        <li><a href="#">Education</a></li>
+        <li><a href="#">Interests</a></li>
+        <li><a href="#">Work Experience</a></li>
+        <li><a href="#">Contact Me</a></li>
       </ul>
     </div>
   </div>
-</nav>
+</nav><!-- End of the Nav -->
 
 <div class="container-fluid bg-1 text-center">
   <h3>Who Am I?</h3>
