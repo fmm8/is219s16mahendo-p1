@@ -31,7 +31,7 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Education</a></li>
+        <li><a href="#education">Education</a></li>
         <li><a href="#">Interests</a></li>
         <li><a href="#">Work Experience</a></li>
         <li><a href="#">Contact Me</a></li>
@@ -40,15 +40,22 @@
   </div>
 </nav><!-- End of the Nav -->
 
-<div class="container-fluid bg-1 text-center">
-  <h3>Who Am I?</h3>
+<!-- Start of Education div -->
+
+<div class="container-fluid bg-1 text-center" id="education">
+  <section>
+     <h3>Education.</h3>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+  </section>
   
   <h3>I'm an adventurer</h3>
-</div>
+</div><!-- End of Education div -->
 
 <div class="container-fluid bg-2 text-center">
   <h3>What Am I?</h3>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
   <a href="#" class="btn btn-default btn-lg">
     <span class="glyphicon glyphicon-search"></span> Search
   </a>
