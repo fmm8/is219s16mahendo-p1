@@ -61,10 +61,9 @@
          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
       </div>
   </div>
-    
-     
   </section>
 </div><!-- End of Education container -->
+<hr>
 
 <!-- Start of interests container -->
 <div class="container-fluid bg-2 text-center" id="interests">
@@ -80,6 +79,7 @@
      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
   </section>
 </div><!-- End of Interests Container -->
+<hr>
 
 <!-- Start of work experience container -->
 <div class="container-fluid bg-3 text-center" id="workExperience">    
@@ -95,7 +95,7 @@
      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
   </section>
 </div><!-- End of Work Experience Container -->
-
+<hr>
 
 <!-- Start of Contact container -->
 
@@ -139,8 +139,7 @@
     </div><!-- end of row group -->
   </section>
 </div><!-- End of Contact Container -->
-
-    
+<hr>
     
     
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
