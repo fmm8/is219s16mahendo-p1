@@ -32,7 +32,7 @@
       <a class="navbar-brand" href="#">Farahani Mahendo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right h2">
         <li><a href="#education">Education</a></li>
         <li><a href="#">Interests</a></li>
         <li><a href="#">Work Experience</a></li>
