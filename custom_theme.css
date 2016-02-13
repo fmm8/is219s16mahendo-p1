@@ -3,6 +3,9 @@
     background-color:red;
     color:#ffffff;
   }
+  .navbar{
+    font-size:20px;
+  }
  .container-fluid {
       padding-top: 70px;
       padding-bottom: 70px;
