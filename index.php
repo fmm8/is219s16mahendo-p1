@@ -31,7 +31,7 @@
       <a class="navbar-brand" href="#">Farahani Mahendo</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right h3">
+      <ul class="nav navbar-nav navbar-right">
         <li><a href="#education">Education</a></li>
         <li><a href="#">Interests</a></li>
         <li><a href="#">Work Experience</a></li>
