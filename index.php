@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="custom_theme.css">
   <link rel="stylesheet" href="bootstrap-theme.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
@@ -57,6 +58,7 @@
         <div class="col-sm-9">
             
               <div class="align-left">
+                <p><i class="fa fa-university"></i></p>
                 <strong>New Jersey Institute of Technology. Newark, New Jersey 2016</strong>
                 <p>Bachelor's of Science in Information Technology.</p>
                 <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
