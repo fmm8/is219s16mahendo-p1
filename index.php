@@ -51,7 +51,7 @@
     </div>
     <div class="row">
         <div class="col-sm-3">
-            <img src="pic4.png" class="img-rounded" alt="profile picture" width="200" height="200">
+            <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjWzO79h_3KAhUHrD4KHWExD5wQjRwIBw&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarahani-m-mahendo-26146690&psig=AFQjCNF8Vqjg1xiBHefhJnuHznXfhrz19g&ust=1455738850871014" class="img-rounded" alt="profile picture" width="200" height="200">
         </div>
         
         <div class="col-sm-9">
