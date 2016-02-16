@@ -1,9 +1,20 @@
   // my custom theme
   body{
-    background-color:red;
-    color:#ffffff;
+    background-color:#181818;
+    color:#000000;
+    font-weight:200;
   }
- .container-fluid {
-      padding-top: 70px;
-      padding-bottom: 70px;
+  .bg-1{
+	padding-top: 90px;
+    padding-bottom: 50px;
+}
+.mainPage{
+	background-color: #ffffff;
+}
+  p{
+  	font-weight:200;
+  	font-size: 14px;
+  }
+  h4{
+    color: #A80000;
   }
