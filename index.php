@@ -2,7 +2,6 @@
 
 <!-- Below goes html -->
 
-  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,8 +18,8 @@
 </head>
 <body>
 
-<nav class="navbar navbar-inverse navbar-fixed-top"">
-  <div class="container">
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container-fluid">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
@@ -28,81 +27,129 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Farahani Mahendo</a>
+      <a class="navbar-brand" href="#"><strong>Farahani Mahendo</strong></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#education">Education</a></li>
-        <li><a href="#">Interests</a></li>
-        <li><a href="#">Work Experience</a></li>
-        <li><a href="#">Contact Me</a></li>
+        <li><a href="#education"><strong>Education</strong></a></li>
+        <li><a href="#interests"><strong>Interests</strong></a></li>
+        <li><a href="#workExperience"><strong>Work Experience</strong></a></li>
+        <li><a href="#contact"><strong>Contact Me</strong></a></li>
       </ul>
     </div>
   </div>
 </nav><!-- End of the Nav -->
 
+<!-- Begin of class mainpage -->
+<div class="mainPage">
 <!-- Start of Education container -->
+<div class="container bg-1 text-center" id="education">
 
-<div class="container-fluid bg-1 text-center" id="education">
-  <section>
-    <h3>Education</h3>
+    
+    <div class="page-header">
+      <h4 class="text-left">Education</h4>   
+    </div>
     <div class="row">
-      <div class="col-sm-4">
-        <img src="http://www.henkoh.com/images/profiles/default.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"> 
-      </div>
-      <div class="col-sm-8 ">
+        <div class="col-sm-3">
+            <img src="pic4.png" class="img-rounded" alt="profile picture" width="200" height="200">
+        </div>
         
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-      </div>
+        <div class="col-sm-9">
+            
+              <div class="align-left">
+                <strong>New Jersey Institute of Technology. Newark, New Jersey 2016</strong>
+                <p>Bachelor's of Science in Information Technology.</p>
+                <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
+                <p>Associate's of Science in Engineering Science. </p>
+                <strong>Kilimanjaro, United Republic of Tanzania 2007 - 2010</strong>
+                <p>Bachelor's of Art in Economics</p>
+              </div>
+          
+        </div>
+      
+
   </div>
-  </section>
+
 </div><!-- End of Education container -->
-<hr>
+
 
 <!-- Start of interests container -->
-<div class="container-fluid bg-2 text-center" id="interests">
+<div class="container bg-2 text-center" id="interests">
+
   <section>
-     <h3>Interests</h3>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+      <div class="page-header">
+        <h4 class="text-left">Interests</h4>  
+      </div>
+      <div class="row alert">
+
+          <div class="col-sm-4">
+            <div class="page-header">
+              <h4 class="text-center">Development</h4>  
+            </div>
+
+            <span><p>Web Development</p></span>
+            <span><p>Mobile Applications Development</p></span>
+            <span><p>Web Development</p></span>
+            <span><p>Web Design</p></span>
+            <span><p>Databases Architecture</p></span>
+
+          </div>
+
+          <div class="col-sm-4">
+            <div class="page-header">
+              <h4 class="text-center">Technical Skills</h4>  
+            </div>
+
+            <span><p>Python - Django</p></span>
+            <span><p>Java, JSEE</p></span>
+            <span><p>JavaScript, Jquery, Angular JS, Json</p></span>
+            <span><p>Swift 2.1</p></span>
+            <span><p>HTML, CSS, Bootstrap</p></span>
+            <span><p>Drupal, Wordpress</p></span>
+
+          </div>
+
+          <div class="col-sm-4">
+            <div class="page-header">
+              <h4 class="text-center">Photography and Video</h4>  
+            </div>
+
+            <span><p>Video Production</p></span>
+            <span><p>Photoshop</p></span>
+
+          </div>
+
+      </div>
+     
   </section>
 </div><!-- End of Interests Container -->
-<hr>
+
 
 <!-- Start of work experience container -->
-<div class="container-fluid bg-3 text-center" id="workExperience">    
+<div class="container bg-3 text-center" id="workExperience">    
   <section>
-     <h3>Work Experience</h3>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+      <div class="page-header">
+        <h4 class="text-left">Work Experience</h4>  
+      </div>
+      <blockquote>
+        <span><p>ADP, LLC - Analyst : 2015 - Present</p></span>
+        <span><p>New Jersey Institute of Technology (ACM) - iOS Developer : 2014 - Present</p></span>
+        <span><p>Bergen Community College - Student Technology Consultant: 2011 - 2013  </p></span>
+        <span><p>Kilimanjaro Learning Center - Economics Tutor : 2008 - 2009 </p></span>
+      </blockquote>
+
   </section>
 </div><!-- End of Work Experience Container -->
-<hr>
+
 
 <!-- Start of Contact container -->
-
-<div class="container-fluid bg-4 text-center" id="contact">    
+<div class="container bg-4 text-center" id="contact">    
   <section>
-    <h3>Contact Me</h3v>
+
+       <div class="page-header">
+        <h4 class="text-left">Contact Me</h4>  
+      </div>
+      
     <div class="row">
       <div class="col-sm-4">
         <p>fmm8@njit.edu</p>
@@ -117,16 +164,10 @@
           </div>
         </div>
         <div class="form-group">
-          <label class="control-label col-sm-2" for="pwd">Password:</label>
-          <div class="col-sm-10">          
-            <input type="password" class="form-control" id="pwd" placeholder="Enter password">
-          </div>
-        </div>
-        <div class="form-group">        
-          <div class="col-sm-offset-2 col-sm-10">
-            <div class="checkbox">
-              <label><input type="checkbox"> Remember me</label>
-            </div>
+         
+          <label for="comment">Comment:</label>
+          <textarea class="form-control" rows="5" id="comment"></textarea>
+
           </div>
         </div>
         <div class="form-group">        
@@ -135,13 +176,15 @@
           </div>
         </div>
         </form>
-
+        <br><br>
       </div><!-- end of sm-8 -->
     </div><!-- end of row group -->
   </section>
 </div><!-- End of Contact Container -->
-<hr>
-    
+</div>
+<br>
+
+<!-- End of Class Jumbotron -->
     
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
