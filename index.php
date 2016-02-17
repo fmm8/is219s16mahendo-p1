@@ -1,7 +1,6 @@
 <?php ?>
 
 <!-- Below goes html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,14 +51,14 @@
     </div>
     <div class="row">
         <div class="col-sm-3">
-            <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjWzO79h_3KAhUHrD4KHWExD5wQjRwIBw&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffarahani-m-mahendo-26146690&psig=AFQjCNF8Vqjg1xiBHefhJnuHznXfhrz19g&ust=1455738850871014" class="img-rounded" alt="profile picture" width="200" height="200">
+            <img src="pic4.png" class="img-rounded" alt="profile picture" width="200" height="200">
         </div>
         
         <div class="col-sm-9">
             
               <div class="align-left">
                 <p><i class="fa fa-university"></i></p>
-                <strong>New Jersey Institute of Technology. Newark, New Jersey 2016</strong>
+                <strong>New Jersey Institute of Technology. Newark, New Jersey 2016 <i class="fa fa-graduation-cap"></i></strong>
                 <p>Bachelor's of Science in Information Technology.</p>
                 <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
                 <p>Associate's of Science in Engineering Science. </p>
@@ -116,7 +115,7 @@
               <h4 class="text-center">Photography and Video</h4>  
             </div>
 
-            <span><p>Video Production</p></span>
+            <span><p>Film Production</p></span>
             <span><p>Photoshop</p></span>
 
           </div>
@@ -153,32 +152,42 @@
       </div>
       
     <div class="row">
-      <div class="col-sm-4">
-        <p>fmm8@njit.edu</p>
-        <p>New Jersey</p>
-      </div>
-      <div class="col-sm-8">
-        <form class="form-horizontal" role="form">
-          <div class="form-group">
-            <label class="control-label col-sm-2" for="email">Email:</label>
-            <div class="col-sm-10">
-              <input type="email" class="form-control" id="email" placeholder="Enter email">
-          </div>
-        </div>
-        <div class="form-group">
-         
-          <label for="comment">Comment:</label>
-          <textarea class="form-control" rows="5" id="comment"></textarea>
+      <div class="col-sm-2">
+          <div class="myContact text align-left">
+              <p>Farahani Mahendo</p>
+              <p>Alpine, New Jersey</p>
+              <p>(732) - 000- 0000</p>
+              <p>firstName@gmail.co.us</p>
+              <i class="fa fa-linkedin-square"></i>
+              <i class="fa fa-skype"></i>
+              <i class="fa fa-github"></i>
 
           </div>
-        </div>
-        <div class="form-group">        
-          <div class="col-sm-offset-2 col-sm-10">
-            <button type="submit" class="btn btn-default">Submit</button>
+      </div>
+      <div class="col-sm-10">
+          <form class="form-horizontal" role="form">
+            <div class="form-group">
+              <label class="control-label col-sm-4" for="email">Your email:</label>
+              <div class="col-sm-8">
+                <input type="email" class="form-control" id="email" placeholder="Enter email">
+            </div>
           </div>
-        </div>
-        </form>
-        <br><br>
+          <div class="form-group">
+            <label class="control-label col-sm-4"for="comment">Message:</label>
+            <div class ="col-sm-8">
+                <textarea class="form-control text" rows="4" id="comment" placeholder="Message ...."></textarea>
+            </div>
+            
+          </div>
+           <div class="form-group">        
+              <div class="col-sm-offset-2 col-sm-10">
+                <button type="submit" class="btn btn-default">Submit</button>
+              </div>
+            </div>
+          </form>
+      </div>
+           
+          
       </div><!-- end of sm-8 -->
     </div><!-- end of row group -->
   </section>
