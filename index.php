@@ -160,7 +160,7 @@
       </div>
       
     <div class="row">
-      <div class="col-sm-2">
+      <div class="col-sm-3">
           <div class="myContact text align-left">
               <p>Farahani Mahendo</p>
               <p>Alpine, New Jersey</p>
@@ -172,7 +172,7 @@
 
           </div>
       </div>
-      <div class="col-sm-10">
+      <div class="col-sm-9">
           <form class="form-horizontal" role="form">
             <div class="form-group">
               <label class="control-label col-sm-4" for="email">Your email:</label>
