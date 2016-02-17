@@ -47,7 +47,7 @@
 
     
     <div class="page-header">
-      <h4 class="text-left">Education</h4>   
+      <h4 class="heading text-left">Education</h4>   
     </div>
     <div class="row">
         <div class="col-sm-5">
@@ -59,17 +59,17 @@
               <div class="align-left">
                 <div class="page-header">
                   <p><i class="fa fa-university"></i></p>
-                <strong>New Jersey Institute of Technology. Newark, New Jersey 2016 <i class="fa fa-graduation-cap"></i></strong>
+                <strong class="heading">New Jersey Institute of Technology. Newark, New Jersey 2016 <i class="fa fa-graduation-cap"></i></strong>
                 </div>
                 <p>Bachelor's of Science in Information Technology.</p>
                  <div class="page-header">
-                    <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
+                    <strong class="heading">Bergen Community College. Paramus, New Jersey 2013</strong>
                 </div>
                 
                 <p>Associate's of Science in Engineering Science. </p>
 
                 <div class="page-header">
-                <strong>Kilimanjaro, United Republic of Tanzania 2007 - 2010</strong>
+                <strong class="heading">Kilimanjaro, United Republic of Tanzania 2007 - 2010</strong>
                 </div>
                 <p>Bachelor's of Art in Economics</p>
               </div>
@@ -87,13 +87,13 @@
 
   <section>
       <div class="page-header">
-        <h4 class="text-left">Interests</h4>  
+        <h4 class="heading text-left">Interests</h4>  
       </div>
       <div class="row alert">
 
           <div class="col-sm-4">
             <div class="page-header">
-              <h4 class="text-center">Development</h4>  
+              <h4 class="heading text-center">Development</h4>  
             </div>
 
             <span><p>Web Development</p></span>
@@ -106,7 +106,7 @@
 
           <div class="col-sm-4">
             <div class="page-header">
-              <h4 class="text-center">Technical Skills</h4>  
+              <h4 class="heading text-center">Technical Skills</h4>  
             </div>
 
             <span><p>Python - Django</p></span>
@@ -120,7 +120,7 @@
 
           <div class="col-sm-4">
             <div class="page-header">
-              <h4 class="text-center">Photography and Video</h4>  
+              <h4 class="heading text-center">Photography and Video</h4>  
             </div>
 
             <span><p>Film Production</p></span>
@@ -138,7 +138,7 @@
 <div class="container bg-3 text-center" id="workExperience">    
   <section>
       <div class="page-header">
-        <h4 class="text-left">Work Experience</h4>  
+        <h4 class="heading text-left">Work Experience</h4>  
       </div>
       <blockquote>
         <span><p>ADP, LLC - Analyst : 2015 - Present</p></span>
@@ -156,7 +156,7 @@
   <section>
 
        <div class="page-header">
-        <h4 class="text-left">Contact Me</h4>  
+        <h4 class="heading text-left">Contact Me</h4>  
       </div>
       
     <div class="row">
@@ -175,13 +175,13 @@
       <div class="col-sm-9">
           <form class="form-horizontal" role="form">
             <div class="form-group">
-              <label class="control-label col-sm-4" for="email">Your email:</label>
+              <label class="heading control-label col-sm-4" for="email">Your email:</label>
               <div class="col-sm-8">
                 <input type="email" class="form-control" id="email" placeholder="Enter email">
             </div>
           </div>
           <div class="form-group">
-            <label class="control-label col-sm-4"for="comment">Message:</label>
+            <label class="heading control-label col-sm-4"for="comment">Message:</label>
             <div class ="col-sm-8">
                 <textarea class="form-control text" rows="4" id="comment" placeholder="Message ...."></textarea>
             </div>
