@@ -7,10 +7,13 @@
   .bg-1{
 	padding-top: 90px;
     padding-bottom: 50px;
-}
-.mainPage{
+  }
+  .mainPage{
 	background-color: #ffffff;
-}
+	}
+  .heading{
+  	color:#AB0000;
+  }
   p{
   	font-weight:200;
   	font-size: 14px;
