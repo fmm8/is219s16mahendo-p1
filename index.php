@@ -50,11 +50,11 @@
       <h4 class="text-left">Education</h4>   
     </div>
     <div class="row">
-        <div class="col-sm-3">
+        <div class="col-sm-5">
             <img src="pic4.png" class="img-rounded" alt="profile picture" width="200" height="200">
         </div>
         
-        <div class="col-sm-9">
+        <div class="col-sm-7">
             
               <div class="align-left">
                 <div class="page-header">
