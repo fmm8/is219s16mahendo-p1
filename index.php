@@ -57,12 +57,20 @@
         <div class="col-sm-9">
             
               <div class="align-left">
-                <p><i class="fa fa-university"></i></p>
+                <div class="page-header">
+                  <p><i class="fa fa-university"></i></p>
                 <strong>New Jersey Institute of Technology. Newark, New Jersey 2016 <i class="fa fa-graduation-cap"></i></strong>
+                </div>
                 <p>Bachelor's of Science in Information Technology.</p>
-                <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
+                 <div class="page-header">
+                    <strong>Bergen Community College. Paramus, New Jersey 2013</strong>
+                </div>
+                
                 <p>Associate's of Science in Engineering Science. </p>
+
+                <div class="page-header">
                 <strong>Kilimanjaro, United Republic of Tanzania 2007 - 2010</strong>
+                </div>
                 <p>Bachelor's of Art in Economics</p>
               </div>
           
