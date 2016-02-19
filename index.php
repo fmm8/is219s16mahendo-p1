@@ -59,11 +59,11 @@
               <div class="align-left">
                 <div class="page-header">
                   <p><i class="fa fa-university"></i></p>
-                <strong class="heading">New Jersey Institute of Technology. Newark, New Jersey 2016 <i class="fa fa-graduation-cap"></i></strong>
+                <strong class="heading">New Jersey Institute of Technology. Newark, New Jersey 2013 - 2016 <i class="fa fa-graduation-cap"></i></strong>
                 </div>
                 <p>Bachelor's of Science in Information Technology and a Minor in Computer Science</p>
                  <div class="page-header">
-                    <strong class="heading">Bergen Community College. Paramus, New Jersey 2013</strong>
+                    <strong class="heading">Bergen Community College. Paramus, New Jersey 2010 - 2013</strong>
                 </div>
                 
                 <p>Associate's of Science in Engineering Sciences </p>
