@@ -120,11 +120,12 @@
 
           <div class="col-sm-4">
             <div class="page-header">
-              <h4 class="heading text-center">Photography and Video</h4>  
+              <h4 class="heading text-center">Photography and Film</h4>  
             </div>
 
             <span><p>Film Production</p></span>
-            <span><p>Photoshop</p></span>
+            <span><p>Video Editing</p></span>
+            <span><p>Photoshop CS 6 Expert</p></span>
 
           </div>
 
