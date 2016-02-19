@@ -51,7 +51,7 @@
     </div>
     <div class="row">
         <div class="col-sm-5">
-            <img src="http://oi67.tinypic.com/macx3t.jpg" class="img-rounded" alt="profile picture" width="200" height="200">
+            <img src="http://oi67.tinypic.com/macx3t.jpg" class="img-rounded" alt="profile picture" width="200" height="300">
         </div>
         
         <div class="col-sm-7">
