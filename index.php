@@ -61,18 +61,12 @@
                   <p><i class="fa fa-university"></i></p>
                 <strong class="heading">New Jersey Institute of Technology. Newark, New Jersey 2013 - 2016 <i class="fa fa-graduation-cap"></i></strong>
                 </div>
-                <p>Bachelor's of Science in Information Technology and a Minor in Computer Science</p>
+                <p>Bachelor's of Science</p>
                  <div class="page-header">
                     <strong class="heading">Bergen Community College. Paramus, New Jersey 2010 - 2013</strong>
                 </div>
                 
-                <p>Associate's of Science in Engineering Sciences </p>
-
-                <div class="page-header">
-                <strong class="heading">Kilimanjaro, United Republic of Tanzania 2007 - 2010</strong>
-                </div>
-                <p>Bachelor's of Art in Economics</p>
-              </div>
+                <p>Associate's of Science</p>
           
         </div>
       
